@@ -1,3 +1,5 @@
+teste
+
 ls -> lista arquivos
 ls -a -> lista arquivos incluindo ocultos
 cd -> move entre diretorios
