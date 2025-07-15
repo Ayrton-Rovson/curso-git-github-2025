@@ -16,4 +16,4 @@ git log -> mostra todos os commits
 8. git status
 9. volta para o passo 3.
 
-a
+aa
