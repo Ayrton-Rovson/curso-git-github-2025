@@ -4,7 +4,6 @@ Curso para iniciantes aprenderem a trabalhar com versionamento de código e repo
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
-
 ## Fluxo de trabalho Git local
 
 01. git checkout -b
@@ -46,3 +45,5 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 11. excluir <nova_branch> origin
 12. git checkout main
 13. git branch -D <nova_branch>
+
+Agora que aprendi Git, proximos passo é aprender Python.
